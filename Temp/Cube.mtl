@@ -1,0 +1,10 @@
+newmtl ProBuilder_Default_URP
+map_Kd GridBox_Default.png
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl ground_2
+map_Kd ground.png
+Kd 1 1 1
+d 1
+

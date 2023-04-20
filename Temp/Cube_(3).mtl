@@ -1,0 +1,10 @@
+newmtl ground
+map_Kd ground.png
+Kd 1 1 1
+d 1
+
+newmtl ground_2
+map_Kd ground.png
+Kd 1 1 1
+d 1
+
